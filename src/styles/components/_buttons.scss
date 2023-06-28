@@ -11,7 +11,11 @@
 
     &--primary {
         color: #fff;
+<<<<<<< HEAD
         background-color: variables.$colorBg;
+=======
+        background-color: variables.$pink;
+>>>>>>> 707e70faead5e075aabff08904df38a3a31d2751
     }
 
     @media (max-width: 640px) {
